@@ -1,0 +1,10 @@
+PS|NPS|SNPS|P_STR|P_KAN|POZNAMKA
+1|Slovenská ľudová strana Andreja Hlinku|Slovenská ľudová strana (SĽS)|1|39|
+2|DOBRÁ VOĽBA|DOBRÁ VOĽBA|1|150|
+3|Sloboda a Solidarita|SaS|1|149|
+4|SME RODINA|SME RODINA|1|150|
+5|Slovenské Hnutie Obrody|Slovenské Hnutie Obrody|1|25|
+6|ZA ĽUDÍ|ZA ĽUDÍ|1|150|
+7|MÁME TOHO DOSŤ !|MÁME TOHO DOSŤ !|1|71|
+8|Hlas pravice|Hlas pravice|1|41|X
+9|Slovenská národná strana|SNS|1|150|

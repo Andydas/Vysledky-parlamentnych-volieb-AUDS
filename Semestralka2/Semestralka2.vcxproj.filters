@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\filter">
+      <UniqueIdentifier>{02c76391-8fb9-442a-bee9-f40bc565d82f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\kriterium">
+      <UniqueIdentifier>{8f74e422-69fd-4533-b0dc-467c8118cf4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\uzemna_jednotka">
+      <UniqueIdentifier>{5ec86346-389d-4895-ad35-36bc0b56e45e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\main">
+      <UniqueIdentifier>{50539277-ca83-49e3-bf7b-ad7941c4ece5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\politicka_strana">
+      <UniqueIdentifier>{0fea97cd-b661-4717-8374-4c80b1735554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\kandidat">
+      <UniqueIdentifier>{c09e18fa-1f9f-4499-86c6-030b3cac4b51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures">
+      <UniqueIdentifier>{5d4d50cb-5ca4-4c95-b9b6-5e0d9daaf04a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\list">
+      <UniqueIdentifier>{8cb3a76f-dbe4-4936-a248-96135ea511e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\table">
+      <UniqueIdentifier>{d579a1db-9246-4920-94eb-e108147ced2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\table\sorting">
+      <UniqueIdentifier>{651f7d7b-ac8b-4162-acd1-4d16a8904831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\queue">
+      <UniqueIdentifier>{7bc9a019-e021-45ee-b954-3480f7382e76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\array">
+      <UniqueIdentifier>{de5b1a57-4be1-4e69-82f8-f75b1b9341ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\vector">
+      <UniqueIdentifier>{a3379a40-4daa-43ef-9f42-fd5ecea4e7ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\citac">
+      <UniqueIdentifier>{eed68487-9de3-422d-9406-7778e875d5a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\enum">
+      <UniqueIdentifier>{257bf711-6320-48ca-876b-5450b62db5e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\kriterium\kriterium_uj">
+      <UniqueIdentifier>{54a42557-16cc-4ebf-b9f9-42256d4db0cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\kriterium\kriterium_k">
+      <UniqueIdentifier>{f0e09fad-3d87-4dbc-ba3d-f5360bedbb8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\kriterium\kriterium_ps">
+      <UniqueIdentifier>{270042fd-c06f-42d1-ae04-9d88063b5ffc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\filter\filter_male_fi">
+      <UniqueIdentifier>{b20fdac6-b8df-4fb2-8837-c0e97a9b56ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\filter\filter_velke_fi">
+      <UniqueIdentifier>{87d2af1a-dca5-4122-bd1c-33820af79ba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\v_kriterium">
+      <UniqueIdentifier>{42d2a17c-7920-4ea6-b8ae-28ef03c5e7e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\v_kriterium\v_kriterium_max">
+      <UniqueIdentifier>{46240230-42ff-4c9d-bd55-5138f5e9516f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\v_kriterium\v_kriterium_min">
+      <UniqueIdentifier>{04f6ae99-cc7a-4442-8be4-9d2ec6c40e93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\manazer_uloha">
+      <UniqueIdentifier>{eb1504e8-8ece-4d15-a315-24344c6a769f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\comparator">
+      <UniqueIdentifier>{bd94e24c-c5ba-45ef-a9ed-973a3b7acb0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\citac_param">
+      <UniqueIdentifier>{d2fc3888-6e41-467a-93c2-1738a6ec4f8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sorter">
+      <UniqueIdentifier>{4db885bd-a449-40f0-928e-2daa93d5d7af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sorter\sorter_uj">
+      <UniqueIdentifier>{7d64e195-1c0d-4acf-83bc-c74892ffff8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sorter\sorter_ps">
+      <UniqueIdentifier>{263ffc85-1a1f-44ac-8729-8ad6fed77b8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sorter\sorter_k">
+      <UniqueIdentifier>{de23311d-ff07-4154-b5d2-a093353c38d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\main</Filter>
+    </ClCompile>
+    <ClCompile Include="uzemna_jednotka.cpp">
+      <Filter>Source Files\uzemna_jednotka</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\ds_routines.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\memory_routines.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\structure.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\table\sorting\sort.cpp">
+      <Filter>Source Files\structures\table\sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\structures\vector\vector.cpp">
+      <Filter>Source Files\structures\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="app.cpp">
+      <Filter>Source Files\main</Filter>
+    </ClCompile>
+    <ClCompile Include="citac_UJ.cpp">
+      <Filter>Source Files\citac</Filter>
+    </ClCompile>
+    <ClCompile Include="citac_PS.cpp">
+      <Filter>Source Files\citac</Filter>
+    </ClCompile>
+    <ClCompile Include="politicka_strana.cpp">
+      <Filter>Source Files\politicka_strana</Filter>
+    </ClCompile>
+    <ClCompile Include="kandidat.cpp">
+      <Filter>Source Files\kandidat</Filter>
+    </ClCompile>
+    <ClCompile Include="citac_K.cpp">
+      <Filter>Source Files\citac</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_3.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_4.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="citac_param_filter_uj.cpp">
+      <Filter>Source Files\citac_param</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_5.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="citac_param_filter_ps.cpp">
+      <Filter>Source Files\citac_param</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_6.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_7.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_8.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_9.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="manazer_uloha_10.cpp">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClCompile>
+    <ClCompile Include="citac_param_filter_k.cpp">
+      <Filter>Source Files\citac_param</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kriterium.h">
+      <Filter>Source Files\kriterium</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.h">
+      <Filter>Source Files\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="uzemna_jednotka.h">
+      <Filter>Source Files\uzemna_jednotka</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\sorting\quick_sort.h">
+      <Filter>Source Files\structures\table\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\hash_table.h">
+      <Filter>Source Files\structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\linked_table.h">
+      <Filter>Source Files\structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\unsorted_sequence_table.h">
+      <Filter>Source Files\structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\list\linked_list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\list\list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\ds_routines.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\ds_structure_types.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\heap_monitor.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\memory_routines.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\structure.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\structure_iterator.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\list\array_list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\sequence_table.h">
+      <Filter>Source Files\structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\table.h">
+      <Filter>Source Files\structures\table</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\queue\explicit_queue.h">
+      <Filter>Source Files\structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\queue\implicit_queue.h">
+      <Filter>Source Files\structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\queue\queue.h">
+      <Filter>Source Files\structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\array\array.h">
+      <Filter>Source Files\structures\array</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\table\sorting\sort.h">
+      <Filter>Source Files\structures\table\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\structures\vector\vector.h">
+      <Filter>Source Files\structures\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="app.h">
+      <Filter>Source Files\main</Filter>
+    </ClInclude>
+    <ClInclude Include="citac.h">
+      <Filter>Source Files\citac</Filter>
+    </ClInclude>
+    <ClInclude Include="citac_UJ.h">
+      <Filter>Source Files\citac</Filter>
+    </ClInclude>
+    <ClInclude Include="typ_UJ.h">
+      <Filter>Source Files\enum</Filter>
+    </ClInclude>
+    <ClInclude Include="citac_PS.h">
+      <Filter>Source Files\citac</Filter>
+    </ClInclude>
+    <ClInclude Include="politicka_strana.h">
+      <Filter>Source Files\politicka_strana</Filter>
+    </ClInclude>
+    <ClInclude Include="kandidat.h">
+      <Filter>Source Files\kandidat</Filter>
+    </ClInclude>
+    <ClInclude Include="citac_K.h">
+      <Filter>Source Files\citac</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_ps.h">
+      <Filter>Source Files\kriterium\kriterium_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_typ.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_prislusnost.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_ucast.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_volici.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_zucastneni_volici.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_odovzdane_obalky.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_podiel_platnych_hlasov.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="typ_odovzdania.h">
+      <Filter>Source Files\enum</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_pocet_platnych_hlasov.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_k.h">
+      <Filter>Source Files\kriterium\kriterium_k</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_ps_nazov.h">
+      <Filter>Source Files\kriterium\kriterium_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_k_nazov.h">
+      <Filter>Source Files\kriterium\kriterium_k</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_velke_fi.h">
+      <Filter>Source Files\filter\filter_velke_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_male_fi.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_ps_hlasy_ziskane.h">
+      <Filter>Source Files\kriterium\kriterium_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_uj_nazov.h">
+      <Filter>Source Files\kriterium\kriterium_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_k_prislusnost.h">
+      <Filter>Source Files\kriterium\kriterium_k</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_ps_uspesnost.h">
+      <Filter>Source Files\kriterium\kriterium_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="v_kriterium.h">
+      <Filter>Source Files\v_kriterium</Filter>
+    </ClInclude>
+    <ClInclude Include="v_kriterium_max_ps_hlasy_ziskane.h">
+      <Filter>Source Files\v_kriterium\v_kriterium_max</Filter>
+    </ClInclude>
+    <ClInclude Include="v_kriterium_max.h">
+      <Filter>Source Files\v_kriterium\v_kriterium_max</Filter>
+    </ClInclude>
+    <ClInclude Include="v_kriterium_min.h">
+      <Filter>Source Files\v_kriterium\v_kriterium_min</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_3.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_uj.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_uj_nazov.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_4.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_uj_ucast.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_uj_volici.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="v_kriterium_min_ps_hlasy_ziskane.h">
+      <Filter>Source Files\v_kriterium\v_kriterium_min</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_k_prislusnost.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_k_nazov.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_ps_nazov.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_uj_nazov.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_uj_prislusnost.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_uj_typ.h">
+      <Filter>Source Files\filter\filter_male_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_uj_ucast.h">
+      <Filter>Source Files\filter\filter_velke_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_uj_volici.h">
+      <Filter>Source Files\filter\filter_velke_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="citac_param_filter_uj.h">
+      <Filter>Source Files\citac_param</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_uj.h">
+      <Filter>Source Files\sorter\sorter_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_uj_nazov.h">
+      <Filter>Source Files\sorter\sorter_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_uj_volici.h">
+      <Filter>Source Files\sorter\sorter_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_uj_ucast.h">
+      <Filter>Source Files\sorter\sorter_uj</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_5.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="citac_param_filter_ps.h">
+      <Filter>Source Files\citac_param</Filter>
+    </ClInclude>
+    <ClInclude Include="filter_ps_vsetko.h">
+      <Filter>Source Files\filter\filter_velke_fi</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_ps_cislo.h">
+      <Filter>Source Files\kriterium\kriterium_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_6.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="kriteirum_ps_sucet.h">
+      <Filter>Source Files\kriterium\kriterium_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_ps.h">
+      <Filter>Source Files\sorter\sorter_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_ps.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_ps_sucet.h">
+      <Filter>Source Files\sorter\sorter_ps</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_ps_sucet.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_7.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_8.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_double.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_double.h">
+      <Filter>Source Files\sorter</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_9.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="citac_param_filter_k.h">
+      <Filter>Source Files\citac_param</Filter>
+    </ClInclude>
+    <ClInclude Include="kriteirum_k_prednostne_hlasy.h">
+      <Filter>Source Files\kriterium\kriterium_k</Filter>
+    </ClInclude>
+    <ClInclude Include="manazer_uloha_10.h">
+      <Filter>Source Files\manazer_uloha</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_k.h">
+      <Filter>Source Files\sorter\sorter_k</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter_k_sucet.h">
+      <Filter>Source Files\sorter\sorter_k</Filter>
+    </ClInclude>
+    <ClInclude Include="comparator_k_sucet.h">
+      <Filter>Source Files\comparator</Filter>
+    </ClInclude>
+    <ClInclude Include="kriterium_k_sucet.h">
+      <Filter>Source Files\kriterium\kriterium_k</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

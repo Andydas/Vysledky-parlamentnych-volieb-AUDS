@@ -1,0 +1,760 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Citac&lt;T&gt;">
+    <Position X="17.5" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>citac.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CitacK">
+    <Position X="13.5" Y="20" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>citac_K.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CitacPS">
+    <Position X="17" Y="20" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>citac_PS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CitacUJ">
+    <Position X="20.75" Y="20" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>citac_UJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CitacParamFilterK" Collapsed="true">
+    <Position X="60.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAACAAAgA=</HashCode>
+      <FileName>citac_param_filter_k.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CitacParamFilterPS" Collapsed="true">
+    <Position X="62.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>citac_param_filter_ps.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CitacParamFilterUJ" Collapsed="true">
+    <Position X="64" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAEAAAAABAAAAAAAAACAAQAAAAACAAAAA=</HashCode>
+      <FileName>citac_param_filter_uj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comparator&lt;O&gt;">
+    <Position X="10.75" Y="29" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAABEAAAAAAAAAAQAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>comparator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorDouble">
+    <Position X="3" Y="32" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>comparator_double.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorKSucet">
+    <Position X="5.5" Y="34.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>comparator_k_sucet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorPS&lt;O, T&gt;">
+    <Position X="6.75" Y="32" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>comparator_ps.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorPSSucet">
+    <Position X="8.25" Y="34.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>comparator_ps_sucet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorUJ&lt;O, T&gt;">
+    <Position X="14.75" Y="32" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAACAAAAAAAAAgAAAAAAAAAAQAA=</HashCode>
+      <FileName>comparator_uj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorUJNazov">
+    <Position X="17.75" Y="34.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>comparator_uj_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorUJUcast">
+    <Position X="11.25" Y="34.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>comparator_uj_ucast.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComparatorUJVolici">
+    <Position X="14.5" Y="34.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>comparator_uj_volici.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterKNazov">
+    <Position X="15.5" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>filter_k_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterKPrislusnost">
+    <Position X="12.75" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>filter_k_prislusnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterMaleFi&lt;O, T&gt;">
+    <Position X="10.5" Y="13" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAEAAAQAAAAAAA=</HashCode>
+      <FileName>filter_male_fi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterPSNazov">
+    <Position X="6.5" Y="15.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>filter_ps_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterUJNazov">
+    <Position X="9.5" Y="15.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>filter_uj_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterUJPrislusnost">
+    <Position X="3.5" Y="15.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>filter_uj_prislusnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterUJTyp">
+    <Position X="18.25" Y="15.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filter_uj_typ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterPSVsetko">
+    <Position X="27.75" Y="16" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filter_ps_vsetko.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterUJUcast">
+    <Position X="24.5" Y="16" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>filter_uj_ucast.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterUJVolici">
+    <Position X="21.5" Y="16" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filter_uj_volici.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterVelkeFi&lt;O, T&gt;">
+    <Position X="24.25" Y="13" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAgAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAAIAAA=</HashCode>
+      <FileName>filter_velke_fi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Filter&lt;O, T&gt;">
+    <Position X="15.25" Y="10" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAAAAAAAAAAACAAAAABAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kandidat" Collapsed="true">
+    <Position X="60.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACACIAEAAAACBAAAAAgAAAEAEAEQAAAABAgAAAA=</HashCode>
+      <FileName>kandidat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumKPrednostneHlasy">
+    <Position X="48.25" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAACAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>kriteirum_k_prednostne_hlasy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumKSucet">
+    <Position X="51.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>kriterium_k_sucet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumK&lt;T&gt;">
+    <Position X="49.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_k.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumKNazov">
+    <Position X="54" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_k_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumKPrislusnost">
+    <Position X="45" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_k_prislusnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPSSucet">
+    <Position X="36.5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriteirum_ps_sucet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPS&lt;T&gt;">
+    <Position X="36.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_ps.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPSCislo">
+    <Position X="39" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_ps_cislo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPSHlasyZiskane">
+    <Position X="41.5" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAABABAAAAAAA=</HashCode>
+      <FileName>kriterium_ps_hlasy_ziskane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPSNazov">
+    <Position X="34" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_ps_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumPSUspesnost">
+    <Position X="30.5" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAABAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>kriterium_ps_uspesnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJ&lt;T&gt;">
+    <Position X="16.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_uj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJNazov">
+    <Position X="4.75" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_uj_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJOdovzdaneObalky">
+    <Position X="7.25" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAACAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>kriterium_uj_odovzdane_obalky.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPocetPlatnychHlasov">
+    <Position X="13.75" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>kriterium_uj_pocet_platnych_hlasov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPodielPlatnychHlasov">
+    <Position X="10.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>kriterium_uj_podiel_platnych_hlasov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJPrislusnost">
+    <Position X="19.5" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAQAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_uj_prislusnost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJTyp">
+    <Position X="22.5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kriterium_uj_typ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJUcast">
+    <Position X="17" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>kriterium_uj_ucast.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJVolici">
+    <Position X="25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>kriterium_uj_volici.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KriteriumUJZucastneniVolici">
+    <Position X="27.5" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>kriterium_uj_zucastneni_volici.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kriterium&lt;O, T&gt;">
+    <Position X="29.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App" Collapsed="true">
+    <Position X="58.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAIEAAAAAAACAAAAAAgAAAAkQAkAAAAAgAgA=</HashCode>
+      <FileName>app.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha9" Collapsed="true">
+    <Position X="65.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAAAAAAAAAAAAAAAAAAAAAAAAFAAAEAQAAAAAAAAAgA=</HashCode>
+      <FileName>manazer_uloha_9.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha3" Collapsed="true">
+    <Position X="64" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAABAAAAAAAQAAAAAAAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>manazer_uloha_3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha4" Collapsed="true">
+    <Position X="65.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAAAAAAAAAAgAAAAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>manazer_uloha_4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha5" Collapsed="true">
+    <Position X="58.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAAAAAAAAAAAAgAAAAAABAAAEAQAAAAAAQAAAA=</HashCode>
+      <FileName>manazer_uloha_5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha6" Collapsed="true">
+    <Position X="60.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAACAAAAAAAgAAAAAABAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>manazer_uloha_6.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha7" Collapsed="true">
+    <Position X="62.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAAAAABAAAAAAAAAAABAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>manazer_uloha_7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha8" Collapsed="true">
+    <Position X="64" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAAAAAAIAAAAAAAgAAAAAABAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>manazer_uloha_8.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManazerUloha10" Collapsed="true">
+    <Position X="62.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAAAAAAAAAAAAAAAAAAAEABAAAEAQEAAAAAAAAgA=</HashCode>
+      <FileName>manazer_uloha_10.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolitickaStrana" Collapsed="true">
+    <Position X="60.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAACIAAAAAAAAAAAAAgAAAAAEBEQAABABAgACAE=</HashCode>
+      <FileName>politicka_strana.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterK">
+    <Position X="2.75" Y="24.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_k.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterKSucet">
+    <Position X="3.25" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_k_sucet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterPS">
+    <Position X="12.75" Y="24.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_ps.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterPSSucet">
+    <Position X="13.5" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_ps_sucet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterUJ">
+    <Position X="7.5" Y="24.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_uj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterUJNazov">
+    <Position X="8.25" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_uj_nazov.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterUJUcast">
+    <Position X="6" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>sorter_uj_ucast.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterUJVolici">
+    <Position X="10.5" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_uj_volici.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SorterDouble">
+    <Position X="16.25" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sorter_double.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Array&lt;T&gt;">
+    <Position X="55" Y="20.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAIAAAQhAAAEAAAJAAAAgEIAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\array\array.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::ArrayList&lt;T&gt;">
+    <Position X="31" Y="25.25" Width="2.75" />
+    <NestedTypes>
+      <Class Name="structures::ArrayList&lt;T&gt;::ArrayListIterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAgAABAAAAACYgAAABAQAEAAAEAAgAgEAECAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedListItem&lt;T&gt;">
+    <Position X="24.5" Y="33.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIAAAAAIAAAAAgAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\list\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedList&lt;T&gt;">
+    <Position X="27.5" Y="25.25" Width="2.75" />
+    <NestedTypes>
+      <Class Name="structures::LinkedList&lt;T&gt;::LinkedListIterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Andy\source\repos\Semestralka2\structures\list\linked_list.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAABBQAAAACYEABABAQAEAAAEAAAAgEIECAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\list\linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::List&lt;T&gt;">
+    <Position X="29.25" Y="20.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAABAAAAACYAAAAAAQAEAAAEAAAAgEAECAAI=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\list\list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::ExplicitQueue&lt;T&gt;">
+    <Position X="51.25" Y="24.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAAAAAIAAAIBAAAAAAAAAAAAoEBAIAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\queue\explicit_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::ImplicitQueue&lt;T&gt;">
+    <Position X="47.5" Y="24.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAAABAIgAAIBAAAAAAgAAAAAoEAAAgAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\queue\implicit_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Queue&lt;T&gt;">
+    <Position X="49.5" Y="20.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAACAAAAAAAIAAAIAAQAAAAAAAAAAoEAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\queue\queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::QuickSort&lt;K, T&gt;">
+    <Position X="9.25" Y="21.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\sorting\quick_sort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::SortNotifier" Collapsed="true">
+    <Position X="62.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAAgQgAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\sorting\sort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Sort&lt;K, T&gt;">
+    <Position X="9.25" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAEAAQAAAAEAAAAAAAAAEIQAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\sorting\sort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::HashTable&lt;K, T&gt;">
+    <Position X="34.5" Y="25" Width="3.5" />
+    <NestedTypes>
+      <Class Name="structures::HashTable&lt;K, T&gt;::HashTableIterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\hash_table.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAAAIQgAABAAAAEAYAAAARCAAEAAAMAAAAgEAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\hash_table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::LinkedTable&lt;K, T&gt;">
+    <Position X="38.75" Y="30" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\linked_table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::SequenceTable&lt;K, T&gt;">
+    <Position X="40" Y="25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAIBAAAAEAYABAAACAAEAAAEAAAAkEBAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\sequence_table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::TableItem&lt;K, T&gt;">
+    <Position X="22.25" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABIAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Table&lt;K, T&gt;">
+    <Position X="32.75" Y="20.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAABAAAAEAYAAQAACAAEAAAEAAAAgEAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::UnsortedSequenceTable&lt;K, T&gt;">
+    <Position X="41.75" Y="30" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAEIAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\table\unsorted_sequence_table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DSRoutines" Collapsed="true">
+    <Position X="65.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAACAAABEAAAAAAAAAACAAAQAAAAAAAAI=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\ds_routines.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::MemoryRoutines" Collapsed="true">
+    <Position X="58.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAICoAAAAAAgAAAgwAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\memory_routines.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::DataItem&lt;T&gt;">
+    <Position X="23.75" Y="31" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\structure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Structure">
+    <Position X="33.5" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAIAAAAAEAAAAAAAAAAAgEAAAQAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\structure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::StructureIterator&lt;T&gt;" Collapsed="true">
+    <Position X="64" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAQAAIAQAAAAgAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\structure_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Iterator&lt;T&gt;" Collapsed="true">
+    <Position X="58.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAQAAAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\structure_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="structures::Iterable&lt;T&gt;">
+    <Position X="29.25" Y="18.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAQAAAAAQAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\structure_iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UzemnaJednotka" Collapsed="true">
+    <Position X="65.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAgBBAAAAAAAAACAEgAEABANAEAAIBAgogAAAA=</HashCode>
+      <FileName>uzemna_jednotka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKriteriumMax&lt;O, T&gt;">
+    <Position X="19.5" Y="24.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>v_kriterium_max.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKriteriumMaxPSHlasov">
+    <Position X="19.25" Y="26.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>v_kriterium_max_ps_hlasy_ziskane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKriteriumMin&lt;O, T&gt;">
+    <Position X="22.5" Y="24.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>v_kriterium_min.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKriteriumMinPSHlasov">
+    <Position X="22.25" Y="26.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>v_kriterium_min_ps_hlasy_ziskane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKriterium&lt;O, T&gt;">
+    <Position X="20.75" Y="22" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>v_kriterium.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="structures::byte" Collapsed="true">
+    <Position X="58.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\ds_structure_types.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="TypOdovzdanie" Collapsed="true">
+    <Position X="62.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABBAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>typ_odovzdania.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TypUJ" Collapsed="true">
+    <Position X="64" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAABAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>typ_UJ.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="structures::StructureADT" Collapsed="true">
+    <Position X="60.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAAAAACAAAAAAAAAAMIAAQAAAACAAAAEAAEAA=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\ds_structure_types.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="structures::StructureADS" Collapsed="true">
+    <Position X="58.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBUAGAIAAAGAAFAAQ2AAAAQIQAAAAGACAAgIQCACAQ=</HashCode>
+      <FileName>C:\Users\Andy\source\repos\Semestralka2\structures\ds_structure_types.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

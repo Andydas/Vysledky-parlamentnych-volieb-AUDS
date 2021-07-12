@@ -1,0 +1,143 @@
+﻿  app.cpp
+C:\Users\Andy\source\repos\Semestralka2\structures\list\linked_list.h(387,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andy\source\repos\Semestralka2\structures\list\linked_list.h(363): message : while compiling class template member function 'T structures::LinkedList<T>::removeAt(const int)'
+          with
+          [
+              T=structures::TableItem<int,UzemnaJednotka *> *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\list\linked_list.h(354): message : see reference to function template instantiation 'T structures::LinkedList<T>::removeAt(const int)' being compiled
+          with
+          [
+              T=structures::TableItem<int,UzemnaJednotka *> *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\linked_table.h(31): message : see reference to class template instantiation 'structures::LinkedList<structures::TableItem<K,T> *>' being compiled
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\linked_table.h(30): message : while compiling class template member function 'structures::LinkedTable<K,T>::LinkedTable(void)'
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\hash_table.h(267): message : see reference to function template instantiation 'structures::LinkedTable<K,T>::LinkedTable(void)' being compiled
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\hash_table.h(267): message : see reference to class template instantiation 'structures::LinkedTable<K,T>' being compiled
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\hash_table.h(258): message : while compiling class template member function 'void structures::HashTable<int,UzemnaJednotka *>::insert(const K &,const T &)'
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\hash_table.h(213): message : see reference to function template instantiation 'void structures::HashTable<int,UzemnaJednotka *>::insert(const K &,const T &)' being compiled
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\app.cpp(38): message : see reference to class template instantiation 'structures::HashTable<int,UzemnaJednotka *>' being compiled
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(367,13): warning C4552: '!=': result of expression not used
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(364): message : while compiling class template member function 'structures::Iterator<T> &structures::ArrayList<T>::ArrayListIterator::operator =(const structures::Iterator<T> &)'
+          with
+          [
+              T=structures::TableItem<int,UzemnaJednotka *> *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(318): message : see reference to class template instantiation 'structures::ArrayList<structures::TableItem<K,T> *>::ArrayListIterator' being compiled
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(316): message : while compiling class template member function 'structures::Iterator<T> *structures::ArrayList<T>::getBeginIterator(void) const'
+          with
+          [
+              T=structures::TableItem<int,UzemnaJednotka *> *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\unsorted_sequence_table.h(47): message : see reference to class template instantiation 'structures::ArrayList<structures::TableItem<K,T> *>' being compiled
+          with
+          [
+              K=int,
+              T=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\unsorted_sequence_table.h(46): message : while compiling class template member function 'structures::UnsortedSequenceTable<int,O>::UnsortedSequenceTable(void)'
+          with
+          [
+              O=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\filter_male_fi.h(31): message : see reference to function template instantiation 'structures::UnsortedSequenceTable<int,O>::UnsortedSequenceTable(void)' being compiled
+          with
+          [
+              O=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\filter_male_fi.h(31): message : see reference to class template instantiation 'structures::UnsortedSequenceTable<int,O>' being compiled
+          with
+          [
+              O=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\filter_male_fi.h(30): message : while compiling class template member function 'structures::UnsortedSequenceTable<int,O> *FilterMaleFi<O,std::wstring>::filtruj(structures::Table<int,O> *)'
+          with
+          [
+              O=UzemnaJednotka *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\filter_uj_nazov.h(8): message : see reference to class template instantiation 'FilterMaleFi<UzemnaJednotka *,std::wstring>' being compiled
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(368,15): warning C4552: '!=': result of expression not used
+  manazer_uloha_8.cpp
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(367,13): warning C4552: '!=': result of expression not used
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(364): message : while compiling class template member function 'structures::Iterator<T> &structures::ArrayList<T>::ArrayListIterator::operator =(const structures::Iterator<T> &)'
+          with
+          [
+              T=structures::TableItem<int,double> *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(318): message : see reference to class template instantiation 'structures::ArrayList<structures::TableItem<K,T> *>::ArrayListIterator' being compiled
+          with
+          [
+              K=int,
+              T=double
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(316): message : while compiling class template member function 'structures::Iterator<T> *structures::ArrayList<T>::getBeginIterator(void) const'
+          with
+          [
+              T=structures::TableItem<int,double> *
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\unsorted_sequence_table.h(47): message : see reference to class template instantiation 'structures::ArrayList<structures::TableItem<K,T> *>' being compiled
+          with
+          [
+              K=int,
+              T=double
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\table\unsorted_sequence_table.h(46): message : while compiling class template member function 'structures::UnsortedSequenceTable<K,T>::UnsortedSequenceTable(void)'
+          with
+          [
+              K=int,
+              T=double
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\manazer_uloha_8.cpp(94): message : see reference to function template instantiation 'structures::UnsortedSequenceTable<K,T>::UnsortedSequenceTable(void)' being compiled
+          with
+          [
+              K=int,
+              T=double
+          ]
+C:\Users\Andy\source\repos\Semestralka2\Semestralka2\manazer_uloha_8.cpp(94): message : see reference to class template instantiation 'structures::UnsortedSequenceTable<K,T>' being compiled
+          with
+          [
+              K=int,
+              T=double
+          ]
+C:\Users\Andy\source\repos\Semestralka2\structures\list\array_list.h(368,15): warning C4552: '!=': result of expression not used
+  Generating code
+  15 of 1522 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Semestralka2.vcxproj -> C:\Users\Andy\source\repos\Semestralka2\Release\Semestralka2.exe

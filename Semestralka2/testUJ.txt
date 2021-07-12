@@ -1,0 +1,7 @@
+KRAJ|NKRAJ|OBVOD|NOBVOD|OKRES|NOKRES|OBEC|NOBEC|TYP_OBCE|P_ALL_OKRSOK
+1|Bratislavský kraj|101|Bratislava|104|Bratislava IV|529401|Bratislava - Devín|2|2
+2|Trnavský kraj|201|Dunajská Streda|201|Dunajská Streda|501590|Horná Potôň|3|3
+1|Bratislavský kraj|101|Bratislava|104|Bratislava IV|529419|Bratislava - Lamač|2|6
+3|Trenčiansky kraj|303|Považská Bystrica|306|Považská Bystrica|546640|Dolný Lieskov|3|2
+9|Zahraničie|900|Zahraničie|900|Zahraničie|599999|Zahraničie|4|1
+8|Košický kraj|806|Trebišov|811|Trebišov|543799|Strážne|3|1

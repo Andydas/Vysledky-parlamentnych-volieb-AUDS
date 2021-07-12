@@ -1,0 +1,10 @@
+PS|PC_HL|MENO|PRIEZVISKO|TITUL|VEK|ZAMESTNANIE|TP_OBEC|POZNAMKA
+24|1|Marian|Kotleba|Ing. Mgr.|42|poslanec NR SR|Banská Bystrica|
+24|2|Rastislav|Schlosár|Mgr.|35|poslanec NR SR|Bacúrov|
+24|3|Martin|Beluský|Ing., PhD.|32|poslanec NR SR|Piešťany|
+24|4|Eduard|Kočiš|Mgr.|37|opatrovateľ v Dome detí Božieho Milosrdenstva|Stropkov|
+24|5|Magdaléna|Sulanová|Ing.|67|SZČO|Bratislava|24|1|Marian|Kotleba|Ing. Mgr.|42|poslanec NR SR|Banská Bystrica|
+24|2|Rastislav|Schlosár|Mgr.|35|poslanec NR SR|Bacúrov|
+24|3|Martin|Beluský|Ing., PhD.|32|poslanec NR SR|Piešťany|
+24|4|Eduard|Kočiš|Mgr.|37|opatrovateľ v Dome detí Božieho Milosrdenstva|Stropkov|
+24|150|Milan|Mazurek||26|asistent poslanca NR SR|Spišská Belá|
